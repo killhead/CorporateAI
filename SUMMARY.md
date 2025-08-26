@@ -1,5 +1,6 @@
 ---
 title: Table of contents
+order: 1
 ---
 
 -  [Структура контента ИИ-раздела](./README.md)
