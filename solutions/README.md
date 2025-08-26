@@ -1,2 +1,4 @@
-# 4-solutions
+---
+title: 4-solutions
+---
 

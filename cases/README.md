@@ -1,2 +1,4 @@
-# 3-cases
+---
+title: 3-cases
+---
 
